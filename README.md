@@ -11,3 +11,5 @@ Next, I created a Random Forest Classifier model in order to fit it to the train
 Comparing the two models, Logistic Regression and Random Forest Classifier, the model with the higher accuracy number was the random forest model with 0.96 vs 0.92. 
 
 I will come back to this code and create a function with if statements in order to follow the DRY method and create better code that is reusable. 
+
+While not neccessary for this assignment, I inted to create a function at a later date for this code so that my code is more reusable.  
